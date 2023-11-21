@@ -87,6 +87,11 @@ footer {
 }
 
 
+#home {
+    text-align: center;
+    padding: 20px; /* Add padding for better readability */
+}
+
 /* Media query for responsiveness */
 @media (max-width: 768px) {
     main {
